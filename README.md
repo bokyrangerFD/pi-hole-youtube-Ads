@@ -1,7 +1,7 @@
 Blocking status :white_check_mark: --Blocking Working good ) </br>
 
 Sponsor this project
-ko_fi ko-fi.com/bokyranger
+https://ko-fi.com/bokyranger
 
 
 
