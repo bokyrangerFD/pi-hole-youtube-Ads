@@ -1,6 +1,8 @@
 Blocking status :white_check_mark: --Blocking Working good ) </br>
-Buy me a coffee   
-[](https://ko-fi.com/bokyranger)](https://ko-fi.com/bokyranger)
+
+Sponsor this project
+ko_fi ko-fi.com/bokyranger
+
 
 
 ```
