@@ -1,23 +1,8 @@
 Blocking status :white_check_mark: --Blocking Working good ) </br>
-Buy me a coffee via paypal 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/KBoghdady?locale.x=en_US)
+Buy me a coffee   
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L4L74YAS5');kofiwidget2.draw();</script> 
 
-```
-Buy me Coffee with XLM GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37
-```
-```
-Buy me Coffee with BitCoin 36fD957SDWHJYYzuH2xmceJ6T2qE9vNiV4
-```
-```
-Buy me Coffee with XRP rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg
-``` 
 
-```
-Buy me Coffee with BAT 0xb9f4845dbEd1FB1Dae90D8e203037B5623B66666
-``` 
-```
-Buy me Coffee with XMR
-46RGtwR2gS3UsjCtmzX7mGAXsXj6ui4ZbiwRhbeMuB7jHYUHhxot5JgRVwVT3dpnQqRk9qsd4N6NXhsjREKhfMmCUTMffLq
 ```
 # Script to add YouTube Ads DNS to Pi-hole black list
 
