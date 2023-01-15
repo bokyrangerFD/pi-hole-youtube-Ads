@@ -1,6 +1,6 @@
 Blocking status :white_check_mark: --Blocking Working good ) </br>
 Buy me a coffee   
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L4L74YAS5');kofiwidget2.draw();</script> 
+[](https://ko-fi.com/bokyranger)](https://ko-fi.com/bokyranger)
 
 
 ```
